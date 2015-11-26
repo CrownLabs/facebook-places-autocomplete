@@ -6,4 +6,11 @@ To use this tool, replace `{fb_app_access_token}` inside the js/index.js with yo
 
 If you want to use this implementation, change the `url` field in js/index.js to an API endpoint that will then make a call to Facebook’s Graph and at which point, you can return the data back to the client side.
 
-To use, simply open `index.html` and search for a location. 
+To use, simply open `index.html` and search for a location.
+
+## Resources
+
+* Facebook Places API Search
+* Twitter Bootstrap
+* Twitter typeahead.js
+* Twitter Hogan.js Javascript templating

@@ -10,7 +10,12 @@ To use, simply open `index.html` and search for a location.
 
 ## Resources
 
-* Facebook Places API Search
-* Twitter Bootstrap
-* Twitter typeahead.js
-* Twitter Hogan.js Javascript templating
+* [Facebook Places API Search][facebook]
+* [Twitter Bootstrap][bootstrap]
+* [Twitter Typeahead.js][typeahead]
+* [Twitter Hogan.js Javascript Templating][hogan]
+
+[facebook]: https://developers.facebook.com/docs/graph-api/reference/place
+[bootstrap]: http://getbootstrap.com/
+[typeahead]: https://twitter.github.io/typeahead.js/
+[hogan]: http://twitter.github.io/hogan.js/
